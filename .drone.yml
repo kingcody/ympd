@@ -6,12 +6,11 @@ script:
 notify:
   email:
     recipients:
-      - andy@ndyk.de
+      - me@codymize.com
   irc:
-    server: irc.freenode.org
+    server: irc.torpnet.us
     nick: droneBot
-    channel: '#nicotest'
+    channel: '#linux'
     on_started: true
     on_success: true
     on_failure: true
-
