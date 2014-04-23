@@ -9,7 +9,7 @@ notify:
       - me@codymize.com
   irc:
     server: irc.torpnet.us
-    nick: droneBot
+    nick: droneio
     channel: '#linux'
     on_started: true
     on_success: true
