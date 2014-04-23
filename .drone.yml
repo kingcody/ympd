@@ -1,4 +1,6 @@
 image: gcc4.8
+env:
+  - CI=true
 script:
   - sudo apt-get install -y libmpdclient-dev &> /dev/null
   - cmake . -DCMAKE_INSTALL_PREFIX:PATH=/usr -DCMAKE_BUILD_TYPE=Debug
