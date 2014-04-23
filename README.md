@@ -1,6 +1,6 @@
 ympd
 ====
-[![Build Status](http://ci.ympd.org/github.com/notandy/ympd/status.svg)](https://ci.ympd.org/github.com/notandy/ympd)
+[![Build Status](https://drone.io/github.com/kingcody/ympd/status.png)](https://drone.io/github.com/kingcody/ympd/latest)
 
 Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 
